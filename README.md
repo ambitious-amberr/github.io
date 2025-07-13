@@ -1,5 +1,7 @@
 # github.io
 A site inspired by www.worthdoingbadly.net. 
 
-+ more copilotting, less code
-+ tutorials, tools, oss
+Source files for ambitious-amberr.github.io. Built with Jekyll. 
+
++ + more copilotting, less code
++ + tutorials, tools, oss
