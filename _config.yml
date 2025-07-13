@@ -1,0 +1,5 @@
+title: hell0 dev
+description: A blog inspired by worthdoingbadly.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ambitious-amberr.github.io"
+theme: minima # or blank for custom
